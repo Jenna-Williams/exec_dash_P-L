@@ -5,8 +5,12 @@ This is a Tableau Dashboard that gives a high-level overview / executive summary
 
 This repo houses Tableau Workbook files (.twbx) for a project that visualizes the Profit & Loss Statement accounts at a high level. The audience is primarily executive leadership, brand leadership, Finance Managers, or other analysts that need a high-level overview of the P&L with the ability to filter by time periods, Brands, and Markets.
 
+<img src="images/pl.jpg" alt="profit and loss bars and line graphs">
+
 ## How to View the Project:
 * The dashboard can be found on the TSP (Tableau Server) here: https://tsp.b-f.com/#/workbooks/1887?:origin=card_share_link.
+
+<img src="images/table.jpg" alt="table view of P&L by country">
 
 ## Additional Features:
 * **Country / Market Hierarchy:** We will be adding a third hierarchy to the DACC data eventually. So this will give users the option to view the data in the dashboard by: (1) Beverages - Regions; (2) Global Travel Retail (GTR); or (3) Country/Market. The third option (Country/Market) is the hierarchy that is being added.
